@@ -1,0 +1,17 @@
+body {
+    background:#cecece;
+}
+.fotoperfil{
+    width: 200px;
+    height: 175px;
+}
+p{
+    color: #3a3a3a;
+}
+.fotoperfil{
+    border: 1.7px solid #ffffff;
+    border-radius: 100% 100% 40% 40%; /*deixa a borda arredondada*/
+    margin: 30px; /*espaçamento externo e o valor se repete para todos os lados.*/
+    /*padding: 3px; /*espaçamento interno e o valor se repete para todos os lados. */
+    box-shadow: 0px 0px 10px #a0a0a0;
+}

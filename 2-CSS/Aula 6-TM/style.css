@@ -1,0 +1,25 @@
+body {
+    background:#cecece;
+    font-family: Arial, Helvetica, 'courier new',sans-serif;
+    color: #3a3a3a;
+}
+.fotoperfil{
+    width: 200px;
+    height: 175px;
+    border: 1.7px solid #ffffff;
+    border-radius: 100% 100% 40% 40%; /*deixa a borda arredondada*/
+    margin: 30px; /*espaçamento externo e o valor se repete para todos os lados.*/
+    /*padding: 3px; /*espaçamento interno e o valor se repete para todos os lados. */
+    box-shadow: 0px 0px 10px #a0a0a0;
+}
+h1{
+    margin-bottom: 0;
+    letter-spacing: -1px;
+}
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(93 91 91);
+    font-weight: 100;
+    letter-spacing: -1px;
+}

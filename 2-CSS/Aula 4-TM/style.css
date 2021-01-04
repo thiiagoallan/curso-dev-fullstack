@@ -1,0 +1,13 @@
+body {
+    background:#cecece;
+}
+.fotoperfil{
+    width: 200px;
+}
+p{
+    color: #3a3a3a;
+}
+.fotoperfil{
+    border: 2px solid #ffffff;
+    border-radius: 100% 100% 40% 40%; /*deixa a borda arredondada*/
+}

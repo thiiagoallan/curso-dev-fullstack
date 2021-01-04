@@ -1,0 +1,45 @@
+body {
+    background: #cecece;
+    font-family: 'Raleway', sans-serif;
+    color: #3a3a3a;
+}
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+.profile{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.fotoperfil{
+    width: 200px;
+    height: 175px;
+    border: 1.7px solid #ffffff;
+    border-radius: 100% 100% 40% 40%; /*deixa a borda arredondada*/
+    margin: 30px 30px 0px 30px; /*espaçamento externo e o valor se repete para todos os lados.*/
+    /*padding: 3px; /*espaçamento interno e o valor se repete para todos os lados. */
+    box-shadow: 0px 0px 10px #a0a0a0;
+}
+h1{
+    margin-top: 10px;
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+}
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(93 91 91);
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+.socialLinks{
+    text-decoration: none;
+}
+.socialMedia{
+    width: 30px;
+}
+.github {
+    margin: 0px 15px;
+}
